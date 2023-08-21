@@ -44,7 +44,7 @@ SoYummy is a feature-rich single-page application (SPA). Fully responsive design
 **Role:** Scrum-master & Frontend Developer.  
 **Completed:** Conducted daily stand-ups, followed the distribution of work in the team. Added main page.
 
-## <a href='https://mar1k85.github.io/monkey-business-team/'><img src="./images/FoodSta.svg" width='30px' height="30px"></a> [FoodSta](https://github.com/yulyarudenko88/FoodSta-team-project)
+## <a href='https://mar1k85.github.io/monkey-business-team/'><img src="./images/FoodSta.svg" width='33px' height="26px"></a> [FoodSta](https://github.com/yulyarudenko88/FoodSta-team-project)
 
 SoYummy is a single-page responsive websites, oriented to any device (mobile, tablet, desktop). FoodSta was created so you can enjoy your favorite food anywhere!
 
