@@ -51,3 +51,6 @@ SoYummy is a single-page responsive websites, oriented to any device (mobile, ta
 **Technology stack:** `HTML`, `SASS`, `GIT`.  
 **Role:** Frontend Developer.  
 **Completed:** Worked on the responsive layout of the "Subscribe" section, performed a simple validation of the form using SCSS.
+
+
+# ⬇️ My own projects
