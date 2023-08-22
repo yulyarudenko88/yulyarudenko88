@@ -31,19 +31,19 @@ I am a junior frontend developer. Constantly working on improving my HTML5/CSS3/
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img alt="NPM" width="64px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img  align="left" alt="NPM" width="64px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 # 👩‍💻 Contacts
 
 
-<a href="mailto:yulyarudenko88@gmail.com"><img src="./images/icons8-gmail-48.png" width='32px'></a>
+<a href="mailto:yulyarudenko88@gmail.com"  align="left"><img src="./images/icons8-gmail-48.png" width='32px'></a>
 
-<a href="http://www.linkedin.com/in/yuliia-rudenko88"><img src="./images/icons8-telegram-48.png" width='32px'></a>
+<a href="http://www.linkedin.com/in/yuliia-rudenko88"  align="left"><img src="./images/icons8-telegram-48.png" width='32px'></a>
 
-<a href="https://t.me/yuliia_rudenko88"><img src="./images/icons8-linkedin-48.png" width='32px'></a>
+<a href="https://t.me/yuliia_rudenko88"  align="left"><img src="./images/icons8-linkedin-48.png" width='32px'></a>
 
 
 # 👯 Team projects
