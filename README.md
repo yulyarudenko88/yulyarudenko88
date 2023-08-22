@@ -38,10 +38,10 @@ I am a junior frontend developer. Constantly working on improving my HTML5/CSS3/
 
 # 👩‍💻 Contacts
 
-<div style="display:flex; gap:15px;">
+<div style="display:flex; gap:25px;">
 <a href="mailto:yulyarudenko88@gmail.com"><img src="./images/icons8-gmail-48.png" width='32px'></a>
-<a href="http://www.linkedin.com/in/yuliia-rudenko88"><img src="./images/icons8-telegram-48.png" width='32px'></a>
-<a href="https://t.me/yuliia_rudenko88"><img src="./images/icons8-linkedin-48.png" width='32px'></a>
+<a href="https://t.me/yuliia_rudenko88"><img src="./images/icons8-telegram-48.png" width='32px'></a>
+<a href="http://www.linkedin.com/in/yuliia-rudenko88"><img src="./images/icons8-linkedin-48.png" width='32px'></a>
 </div>
 
 
