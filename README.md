@@ -3,7 +3,7 @@
 I am a junior frontend developer. Constantly working on improving my HTML5/CSS3/SASS, JavaScript, React and English skills. Organization, flexibility and the desire to pay attention to small details are the core values in individual and team work. Technical thinking help me to develop, independently solve work tasks and quickly master new technologies without effort.
 
 
-# 💪 Hard Skills
+# Hard Skills
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -36,7 +36,7 @@ I am a junior frontend developer. Constantly working on improving my HTML5/CSS3/
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-# 👩‍💻 Contacts
+# Contacts
 
 <div style="display:flex; gap:25px;">
 <a href="mailto:yulyarudenko88@gmail.com"><img src="./images/icons8-gmail-48.png" width='32px'></a>
@@ -45,7 +45,7 @@ I am a junior frontend developer. Constantly working on improving my HTML5/CSS3/
 </div>
 
 
-# 👯 Team projects
+# Team projects
 
 ## <a href='https://serhii-vasylenko.github.io/goit-final-project/'><img src="./images/SoYummy.svg" width='30px' height="30px"></a> [SoYummy](https://github.com/yulyarudenko88/goit-final-project)
 
@@ -64,4 +64,4 @@ SoYummy is a single-page responsive websites, oriented to any device (mobile, ta
 **Completed:** Worked on the responsive layout of the "Subscribe" section, performed a simple validation of the form using SCSS.
 
 
-# 👇 My own projects
+# My own projects 👇
