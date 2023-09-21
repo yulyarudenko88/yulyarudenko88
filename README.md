@@ -60,7 +60,7 @@ SoYummy is a feature-rich single-page application (SPA). Fully responsive design
 SoYummy is a single-page responsive websites, oriented to any device (mobile, tablet, desktop). FoodSta was created so you can enjoy your favorite food anywhere!
 
 **Technology stack:** `HTML`, `SASS`, `GIT`.  
-**Role:** Frontend Developer.  
+**Role:** Developer.  
 **Completed:** Worked on the responsive layout of the "Subscribe" section, performed a simple validation of the form using SCSS.
 
 
